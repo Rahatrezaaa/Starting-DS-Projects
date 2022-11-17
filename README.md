@@ -1,2 +1,2 @@
 # my_projects
-This repository is for my project works,which i have done by myself.
+This repository is for  project works, which are beginner level.
