@@ -1,2 +1,5 @@
 # my_projects
-This repository is for  project works, which are beginner level.
+This repo is for my beginner level work which I did in my first/second year of college.
+
+
+
